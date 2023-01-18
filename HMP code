@@ -1,6 +1,9 @@
 // C++ program to implement the Hospital
 // Management System
-#include <bits/stdc++.h>
+#include<iostream>
+#include<coinio.h>
+#include<algorithm>
+#include<bits/stdc++.h>
 using namespace std;
 
 // Store the data of Hospital
